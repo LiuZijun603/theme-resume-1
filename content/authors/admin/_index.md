@@ -1,39 +1,39 @@
 ---
 # Display name
- title: 刘子军1
+# title: 刘子军1
 
 # Name pronunciation (optional)
 name_pronunciation: Zijun LIU
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zijun
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master’s student in extreme weather
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Department of Earth and Space Sciences, Southern University of Science and Technology
+    url: https://www.sustech.edu.cn/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'liuzj2022@mail.sustech.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/LiuZijun603
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘子军
+# title: 刘子军
 
 # Name pronunciation (optional)
 name_pronunciation: Zijun LIU
